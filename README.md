@@ -16,7 +16,11 @@ I'm Ashwin Chhetri. An AWS certified software engineer from India, who believes 
 <a href="https://www.credly.com/badges/0d6e41d8-cf0b-4af2-abb7-ba748ff307d5/public_url">
 <img alt="aws-developer-associate" height=120px src="./images/aws-certified-developer-associate.png" ></a>
 
-
+### I am Reading
+ - [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html?did=wp_card&trk=wp_card)
+ - [Reliability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html?did=wp_card&trk=wp_card)
+ - [Performance Efficiency Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html?did=wp_card&trk=wp_card)
+ - [Cost Optimization Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html?did=wp_card&trk=wp_card)
 
 ### My Tech list 
 #### I have used this in <b>Professional Setting<b>.
@@ -99,6 +103,11 @@ I'm Ashwin Chhetri. An AWS certified software engineer from India, who believes 
     </tr>
  </table>
 <br>
+
+## Working in Flutter
+
+  Routine app designed and written in dart using flutter framework. [In  Progress]
+  https://github.com/Ashwin-Chhetri/FlutterRoutine
 
 ## Let's colab 🚀
 
